@@ -68,7 +68,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielrenangregorato/)](https://www.linkedin.com/in/gabrielrenangregorato/)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC8I-FIVwbkqg0tdMGM1GtMg)](https://www.youtube.com/channel/UC8I-FIVwbkqg0tdMGM1GtMg)
-- [Website](https://gabrielgregorato.github.io/web/) 💻 - Working on it.
+- [Website](https://gabrielgregorato.github.io/) 💻 - Working on it.
 </p>
 
 
