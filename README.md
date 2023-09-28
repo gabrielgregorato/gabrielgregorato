@@ -25,17 +25,12 @@
 <br />
 
 <p align="center">
-    <a href="https://instagram.com/gabs.renan" target="blank"><img align="center" src="https://logospng.org/download/instagram/logo-instagram-2048.png" alt="gabsrenan" height="50" width="50" />
-        <b style="color:rgb(81, 159, 226)">g</b>
-        <b style="color:rgb(81 226 92);">a</b>
-        <b style="color:rgb(227 99 187);">b</b>
-        <b style="color:rgb(137 136 124);">s</b>
-        <b style="color:rgb(14, 13, 13);">.</b>
-        <b style="color:rgb(74 245 213);">r</b>
-        <b style="color:rgb(81, 159, 226)">e</b>
-        <b style="color:rgb(81 226 92);">n</b>
-        <b style="color:rgb(227 99 187);">a</b>
-        <b style="color:rgb(137 136 124);">n</b>
+    <a href="https://instagram.com/renan.gregorato" target="blank"><img align="center" src="https://logospng.org/download/instagram/logo-instagram-2048.png" alt="renan.gregorato" height="50" width="50" />
+        <b style="color:rgb(81, 159, 226)">r</b>
+        <b style="color:rgb(81 226 92);">e</b>
+        <b style="color:rgb(227 99 187);">n</b>
+        <b style="color:rgb(137 136 124);">a</b>
+        <b style="color:rgb(14, 13, 13);">n</b>
     </a>
 </p>
 
