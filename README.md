@@ -35,7 +35,7 @@
 </p>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=renan.gregorato&label=Profile%20views&color=green&style=flat"  alt="renan.gregorato" />
+<img src="https://komarev.com/ghpvc/?username=gabrielgregorato&label=Profile%20views&color=green&style=flat"  alt="gabrielgregorato" />
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielrenangregorato/)](https://www.linkedin.com/in/gabrielrenangregorato/)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC8I-FIVwbkqg0tdMGM1GtMg)](https://www.youtube.com/channel/UC8I-FIVwbkqg0tdMGM1GtMg)
