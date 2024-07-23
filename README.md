@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-    <img src="https://giphy.com/static/img/labs.gif" alt="Labs GIF" width="100%" height="auto" />
+    <img src="[https://giphy.com/static/img/labs.gif](https://images.wallpapersden.com/image/download/cyberpunk-pirate-flag_bmZuaWWUmZqaraWkpJRoam1prWdlaW0.jpg)" alt="Labs GIF" width="100%" height="auto" />
 </p>
 
 <p align="center">
